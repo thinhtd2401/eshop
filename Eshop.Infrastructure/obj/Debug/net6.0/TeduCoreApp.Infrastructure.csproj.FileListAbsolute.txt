@@ -1,0 +1,12 @@
+D:\Projects\teducoreapp\TeduCoreApp.Infrastructure\bin\Debug\net6.0\TeduCoreApp.Infrastructure.deps.json
+D:\Projects\teducoreapp\TeduCoreApp.Infrastructure\bin\Debug\net6.0\TeduCoreApp.Infrastructure.dll
+D:\Projects\teducoreapp\TeduCoreApp.Infrastructure\bin\Debug\net6.0\TeduCoreApp.Infrastructure.pdb
+D:\Projects\teducoreapp\TeduCoreApp.Infrastructure\obj\Debug\net6.0\TeduCoreApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\teducoreapp\TeduCoreApp.Infrastructure\obj\Debug\net6.0\TeduCoreApp.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\teducoreapp\TeduCoreApp.Infrastructure\obj\Debug\net6.0\TeduCoreApp.Infrastructure.AssemblyInfo.cs
+D:\Projects\teducoreapp\TeduCoreApp.Infrastructure\obj\Debug\net6.0\TeduCoreApp.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\teducoreapp\TeduCoreApp.Infrastructure\obj\Debug\net6.0\TeduCoreApp.Infrastructure.sourcelink.json
+D:\Projects\teducoreapp\TeduCoreApp.Infrastructure\obj\Debug\net6.0\TeduCoreApp.Infrastructure.dll
+D:\Projects\teducoreapp\TeduCoreApp.Infrastructure\obj\Debug\net6.0\refint\TeduCoreApp.Infrastructure.dll
+D:\Projects\teducoreapp\TeduCoreApp.Infrastructure\obj\Debug\net6.0\TeduCoreApp.Infrastructure.pdb
+D:\Projects\teducoreapp\TeduCoreApp.Infrastructure\obj\Debug\net6.0\ref\TeduCoreApp.Infrastructure.dll

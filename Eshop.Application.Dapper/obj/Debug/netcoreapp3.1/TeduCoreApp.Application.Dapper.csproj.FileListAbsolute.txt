@@ -1,0 +1,11 @@
+D:\Projects\teducoreapp\TeduCoreApp.Application.Dapper\bin\Debug\netcoreapp3.1\TeduCoreApp.Application.Dapper.deps.json
+D:\Projects\teducoreapp\TeduCoreApp.Application.Dapper\bin\Debug\netcoreapp3.1\TeduCoreApp.Application.Dapper.dll
+D:\Projects\teducoreapp\TeduCoreApp.Application.Dapper\bin\Debug\netcoreapp3.1\TeduCoreApp.Application.Dapper.pdb
+D:\Projects\teducoreapp\TeduCoreApp.Application.Dapper\obj\Debug\netcoreapp3.1\TeduCoreApp.Application.Dapper.csproj.AssemblyReference.cache
+D:\Projects\teducoreapp\TeduCoreApp.Application.Dapper\obj\Debug\netcoreapp3.1\TeduCoreApp.Application.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\teducoreapp\TeduCoreApp.Application.Dapper\obj\Debug\netcoreapp3.1\TeduCoreApp.Application.Dapper.AssemblyInfoInputs.cache
+D:\Projects\teducoreapp\TeduCoreApp.Application.Dapper\obj\Debug\netcoreapp3.1\TeduCoreApp.Application.Dapper.AssemblyInfo.cs
+D:\Projects\teducoreapp\TeduCoreApp.Application.Dapper\obj\Debug\netcoreapp3.1\TeduCoreApp.Application.Dapper.csproj.CoreCompileInputs.cache
+D:\Projects\teducoreapp\TeduCoreApp.Application.Dapper\obj\Debug\netcoreapp3.1\TeduCoreApp.Application.Dapper.sourcelink.json
+D:\Projects\teducoreapp\TeduCoreApp.Application.Dapper\obj\Debug\netcoreapp3.1\TeduCoreApp.Application.Dapper.dll
+D:\Projects\teducoreapp\TeduCoreApp.Application.Dapper\obj\Debug\netcoreapp3.1\TeduCoreApp.Application.Dapper.pdb

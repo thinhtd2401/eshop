@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="EPPlus.Core" Version="1.5.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Eshop.Data.EF\Eshop.Data.EF.csproj" />
+    <ProjectReference Include="..\Eshop.Data\Eshop.Data.csproj" />
+    <ProjectReference Include="..\Eshop.Utilities\Eshop.Utilities.csproj" />
+  </ItemGroup>
+</Project>

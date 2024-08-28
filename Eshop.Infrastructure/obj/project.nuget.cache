@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bn/ylols4ys=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\eshop\\Eshop.Infrastructure\\Eshop.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tdthi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\tdthi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\tdthi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
